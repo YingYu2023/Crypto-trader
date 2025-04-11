@@ -1,2 +1,2 @@
 # Crypto-trader
-Using LLM and RAG to train a crypto trader, to estimate the future trade.
+Using Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) to train a crypto trading assistant capable of forecasting future market trends.
